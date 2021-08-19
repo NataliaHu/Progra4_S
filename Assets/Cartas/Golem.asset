@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4ba656835b2cd543b78b4d055eaa20d, type: 3}
+  m_Name: Golem
+  m_EditorClassIdentifier: 
+  nombre: Golem
+  imagen: {fileID: 21300000, guid: f99cb61bcc8c7924a888556f6e1f6416, type: 3}
+  instancear: 1
+  HP: 0
+  STR: 0
+  DEF: 2
+  creatura: {fileID: 4014499539567856258, guid: c5f917e61a8e05e48bd23e7093d5687f,
+    type: 3}
